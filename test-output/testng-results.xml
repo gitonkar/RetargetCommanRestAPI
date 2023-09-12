@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-09-12T13:27:48 IST" name="Default suite" finished-at="2023-09-12T13:27:50 IST" duration-ms="2264">
+  <suite started-at="2023-09-12T17:06:05 IST" name="Default suite" finished-at="2023-09-12T17:06:11 IST" duration-ms="5518">
     <groups>
     </groups>
-    <test started-at="2023-09-12T13:27:48 IST" name="Default test" finished-at="2023-09-12T13:27:50 IST" duration-ms="2264">
-      <class name="CreateAirline">
-        <test-method signature="createAirline()[pri:0, instance:CreateAirline@3c73951]" started-at="2023-09-12T13:27:48 IST" name="createAirline" finished-at="2023-09-12T13:27:50 IST" duration-ms="2232" status="PASS">
+    <test started-at="2023-09-12T17:06:05 IST" name="Default test" finished-at="2023-09-12T17:06:11 IST" duration-ms="5518">
+      <class name="Airlines.CreateAirline">
+        <test-method signature="createAirline()[pri:0, instance:Airlines.CreateAirline@25084a1e]" started-at="2023-09-12T17:06:05 IST" name="createAirline" finished-at="2023-09-12T17:06:11 IST" duration-ms="5484" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createAirline -->
-      </class> <!-- CreateAirline -->
+      </class> <!-- Airlines.CreateAirline -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

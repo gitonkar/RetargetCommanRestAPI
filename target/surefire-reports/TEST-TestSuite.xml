@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="8.177" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Program Files\apache-maven-3.9.1\boot\plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://openjdk.java.net/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="maven.conf" value="C:\Program Files\apache-maven-3.9.1/conf"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11\bin"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher test -Denv=dev"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="maven.home" value="C:\Program Files\apache-maven-3.9.1"/>
+    <property name="surefire.test.class.path" value="D:\workspace\space1\RetargetCommanRestAPI\target\test-classes;D:\workspace\space1\RetargetCommanRestAPI\target\classes;C:\Users\Beastboy\.m2\repository\org\testng\testng\7.7.1\testng-7.7.1.jar;C:\Users\Beastboy\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;C:\Users\Beastboy\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar;C:\Users\Beastboy\.m2\repository\org\webjars\jquery\3.6.1\jquery-3.6.1.jar;C:\Users\Beastboy\.m2\repository\io\rest-assured\rest-assured\5.3.2\rest-assured-5.3.2.jar;C:\Users\Beastboy\.m2\repository\org\apache\groovy\groovy\4.0.11\groovy-4.0.11.jar;C:\Users\Beastboy\.m2\repository\org\apache\groovy\groovy-xml\4.0.11\groovy-xml-4.0.11.jar;C:\Users\Beastboy\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\Beastboy\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar;C:\Users\Beastboy\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\Beastboy\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar;C:\Users\Beastboy\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar;C:\Users\Beastboy\.m2\repository\org\hamcrest\hamcrest\2.2\hamcrest-2.2.jar;C:\Users\Beastboy\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\Beastboy\.m2\repository\io\rest-assured\json-path\5.3.2\json-path-5.3.2.jar;C:\Users\Beastboy\.m2\repository\org\apache\groovy\groovy-json\4.0.11\groovy-json-4.0.11.jar;C:\Users\Beastboy\.m2\repository\io\rest-assured\rest-assured-common\5.3.2\rest-assured-common-5.3.2.jar;C:\Users\Beastboy\.m2\repository\io\rest-assured\xml-path\5.3.2\xml-path-5.3.2.jar;C:\Users\Beastboy\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.15.2\jackson-databind-2.15.2.jar;C:\Users\Beastboy\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.15.2\jackson-annotations-2.15.2.jar;C:\Users\Beastboy\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.15.2\jackson-core-2.15.2.jar;C:\Users\Beastboy\.m2\repository\com\google\code\gson\gson\2.10.1\gson-2.10.1.jar;C:\Users\Beastboy\.m2\repository\com\aventstack\extentreports\5.0.9\extentreports-5.0.9.jar;C:\Users\Beastboy\.m2\repository\io\reactivex\rxjava3\rxjava\3.0.4\rxjava-3.0.4.jar;C:\Users\Beastboy\.m2\repository\org\reactivestreams\reactive-streams\1.0.3\reactive-streams-1.0.3.jar;C:\Users\Beastboy\.m2\repository\org\freemarker\freemarker\2.3.30\freemarker-2.3.30.jar;C:\Users\Beastboy\.m2\repository\com\github\javafaker\javafaker\1.0.2\javafaker-1.0.2.jar;C:\Users\Beastboy\.m2\repository\org\yaml\snakeyaml\1.23\snakeyaml-1.23-android.jar;C:\Users\Beastboy\.m2\repository\com\github\mifmif\generex\1.0.2\generex-1.0.2.jar;C:\Users\Beastboy\.m2\repository\dk\brics\automaton\automaton\1.11-8\automaton-1.11-8.jar;C:\Users\Beastboy\.m2\repository\org\projectlombok\lombok\1.18.28\lombok-1.18.28.jar;C:\Users\Beastboy\.m2\repository\org\apache\commons\commons-lang3\3.13.0\commons-lang3-3.13.0.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Beastboy"/>
+    <property name="user.language" value="en"/>
+    <property name="sun.stderr.encoding" value="cp437"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2023-01-17"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-11"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="D:\workspace\space1\RetargetCommanRestAPI"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="sun.stdout.encoding" value="cp437"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.18+9-LTS-195"/>
+    <property name="user.name" value="Beastboy"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="localRepository" value="C:\Users\Beastboy\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\Beastboy\AppData\Local\Temp\"/>
+    <property name="java.version" value="11.0.18"/>
+    <property name="user.dir" value="D:\workspace\space1\RetargetCommanRestAPI"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="maven.multiModuleProjectDirectory" value="D:\workspace\space1\RetargetCommanRestAPI"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="env" value="dev"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-11\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Users/Beastboy/Desktop/sts-4.15.1.RELEASE//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.3.v20220515-1416/jre/bin/server;C:/Users/Beastboy/Desktop/sts-4.15.1.RELEASE//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.3.v20220515-1416/jre/bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Semeru\jdk-11.0.13.8-openj9\bin;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\apache-maven-3.9.1\bin;C:\Users\Beastboy\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jdk-11\bin;C:\Users\Beastboy\.dotnet\tools;C:\Program Files\apache-maven-3.9.1\bin;C:\adb;C:\Program Files (x86)\Bluetooth Command Line Tools\bin;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Program Files\dotnet\;C:\Users\Beastboy\AppData\Local\Microsoft\WindowsApps;C:\Users\Beastboy\.dotnet\tools;C:\Users\Beastboy\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Beastboy\Desktop\sts-4.15.1.RELEASE;;."/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vm.version" value="11.0.18+9-LTS-195"/>
+    <property name="classworlds.conf" value="C:\Program Files\apache-maven-3.9.1\bin\m2.conf"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="library.jansi.path" value="C:\Program Files\apache-maven-3.9.1\lib\jansi-native"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="createAirline" classname="Airlines.CreateAirline" time="3.515">
+    <system-out><![CDATA[Environment value = dev
+Request method:	POST
+Request URI:	https://api.instantwebtools.net/v1/airlines
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "established": "1990",
+    "country": "Sri Lanka",
+    "website": "www.srilankaairways.com",
+    "name": "Sri Lankan Airways",
+    "head_quaters": "Katunayake, Sri Lanka",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Qatar_Airways_Logo.svg/sri_lanka.png",
+    "id": "3654661",
+    "slogan": "From Sri Lanka"
+}
+HTTP/1.1 200 OK
+Server: nginx/1.18.0
+Date: Tue, 12 Sep 2023 12:23:30 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 326
+Connection: keep-alive
+X-Powered-By: Express
+Access-Control-Allow-Origin: *
+ETag: W/"146-Fhq2UKouLeCP7G5hj44b6VlSICE"
+
+{
+    "_id": "65005842efef3f3469983eff",
+    "id": 3654661,
+    "name": "Sri Lankan Airways",
+    "country": "Sri Lanka",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Qatar_Airways_Logo.svg/sri_lanka.png",
+    "slogan": "From Sri Lanka",
+    "head_quaters": "Katunayake, Sri Lanka",
+    "website": "www.srilankaairways.com",
+    "established": "1990",
+    "__v": 0
+}
+]]></system-out>
+    <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+]]></system-err>
+  </testcase>
+</testsuite>
