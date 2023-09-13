@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Airlines.CreateAirline">
+      <class name="Airlines.TestsAirline">
         <methods>
           <include name="createAirline"/>
         </methods>
-      </class> <!-- Airlines.CreateAirline -->
+      </class> <!-- Airlines.TestsAirline -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
